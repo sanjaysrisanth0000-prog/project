@@ -240,7 +240,8 @@ Publish the website in the LocalHost.
 </html>
 ```
 # OUTPUT:
-# RESULT:
 <img width="1920" height="1080" alt="Screenshot 2025-12-23 123647" src="https://github.com/user-attachments/assets/0c492901-c1d7-4448-a4fb-bd4562053815" />
+# RESULT:
+
 
 The Project for responsive web design using Bootstrap is completed successfully.
